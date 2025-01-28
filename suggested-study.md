@@ -77,14 +77,23 @@
 - [Traversy - HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [Traversy - CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
 - [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
-- [CSS Games](https://study.hackyourfuture.be/html-css/css#games-to-learn-css)
+- CSS Games:
+  - [the CSS diner](https://flukeout.github.io/#)
+  - learn flexbox
+    - [flexbox froggy](https://flexboxfroggy.com/)
+    - [flexbox advneture](https://codingfantasy.com/games/flexboxadventure)
+    - [grid garden](https://cssgridgarden.com/)
+    - [flexbox defense](http://www.flexboxdefense.com/)
+    - [flexbox zombies](https://mastery.games/p/flexbox-zombies)
+  - [grid attack](https://codingfantasy.com/games/css-grid-attack)
+  - [Hex Invaders](http://www.hexinvaders.com/) (hex color codes)
+  - [pixact.ly](https://www.pixact.ly/) (pixels)
 - [html.com](https://html.com)
 - [Learn Layout](https://learnlayout.com)
 - [Fribly](https://fribly.com/category/coding/)
 - [CSS Tricks](https://css-tricks.com/guides/)
 - [CSS Reference](https://tympanus.net/codrops/css_reference/)
 - [html-css-course](https://github.com/jonasschmedtmann/html-css-course)
-- [html-css-git-exercises](https://github.com/hackyourfuturebelgium/html-css-git-exercises)
 - [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
 - [css-exercises](https://github.com/dangodev/css-exercises)
 - [Interneting is hard - HTML & CSS](https://internetingishard.netlify.app/html-and-css/)
@@ -98,7 +107,7 @@
 ## DevTools and the DOM
 
 - [How to inspect an element](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549)
-- [inspecting-the-dom](https://hackyourfuturebelgium.github.io/inspecting-the-dom/)
+- [inspecting-the-dom](https://github.com/DeNepo/inspecting-the-dom/tree/master)
 - [Modify the DOM. (does the source change?)](https://zapier.com/blog/inspect-element-tutorial/)
 
 ## Agile is not Perfect
@@ -114,7 +123,7 @@
 
 ## Class Recordings
 
-> - HYF modules are often updated, recordings from past classes may not match
+> - DeNepo modules are often updated, recordings from past classes may not match
 >   this gitbook
 > - When sending a PR's with recording links please ...
 >   - Indicate which class you were teaching

@@ -1,11 +1,10 @@
-# HYF Redesign
+# Landing Page Redesign
 
 > - _Adapting Plans_
 > - [HTML & CSS template repo](https://github.com/DeNepo/template-html-css)
 
 Can your group write a better home page than we have? Starting with nothing but
-boilerplate code you'll build your own home page for
-[HackYourFuture Belgium](https://hackyourfuture.be).
+boilerplate code you'll rebuild a landing page for the product/service/organization of your choice.
 
 When planning and developing always keep the user in mind, here's a few helpful
 questions to guide your group:
@@ -19,11 +18,10 @@ student, a coach, and a sponsor will all visit the site but for different
 reasons. Which sections are most important for each user? How will you
 prioritize each user in your backlog and development strategy?
 
-Careful! When you inspect the hackyourfuture.be the DOM, HTML and CSS will be
+Careful! When you inspect the landing page's the DOM, HTML and CSS will be
 complicated nonsense. The class names will be meaningless, there will be many
 extra nested elements, and the sources will be split into many strange files.
-Ignore this! You aren't trying to recreate the exact code (which is actually
-[written in React](https://github.com/HackYourFutureBelgium/hackyourfuture.be/tree/main/src)).
+Ignore this! You aren't trying to recreate the exact code.
 
 When writing your code pay special attention to:
 

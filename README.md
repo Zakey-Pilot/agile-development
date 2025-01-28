@@ -202,16 +202,10 @@ changes in the plan that are necessary to keep the project on schedule.
   a very effective way to learn programming.
 - Write lots of comments in the examples and exercises. The code in this
   repository is yours to study, modify and re-use in projects.
-- Practice
-  [Pair Programming](https://home.hackyourfuture.be/students/study-tips/pair-programming):
-  two people, one computer.
-- Take a look through the
-  [Learning From Code](https://home.hackyourfuture.be/students/study-tips/learning-from-code)
-  guide for more study tips
 
 ### Study Board
 
-Creating a project board on your GitHub account for tracking your study at HYF
+Creating a project board on your GitHub account for tracking your study in this curriculum
 can help you keep track of everything you're learning. You can create the board
 at this link: `https://github.com/your_user_name?tab=projects`.
 
@@ -237,7 +231,7 @@ These 4 columns may be helpful:
 
 1. Clone this repository:
    - using SSH:
-     `git clone --depth 1 git@github.com:HackYourFutureBelgium/agile-development.git`
+     `git clone --depth 1 git@github.com:<org-name>/agile-development.git`
 2. navigate to the cloned repository
    - `cd agile-development`
 3. Install dependencies:
@@ -258,8 +252,7 @@ These 4 columns may be helpful:
 <br>
 
 This repository comes with some scripts to check the quality of this code. You
-can run these scripts to check the code provided by HYF, and to check the code
-you write when experiment with the examples and complete the exercises.
+can run these scripts to check the code in this repository.
 
 ### `npm run format`
 

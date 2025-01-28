@@ -92,7 +92,7 @@ new user stories to build, when plans change, or when something goes wrong (the
 ## Retrospective Milestone
 
 Your projects will always take more time than you have. It's not important that
-you finish every project at HYF, what's important is that you try your best and
+you finish every project in this curriculum, what's important is that you try your best and
 learn from your mistakes.
 
 When it is time to submit the assignment what's important is that your team has

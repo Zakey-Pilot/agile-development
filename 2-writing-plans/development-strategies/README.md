@@ -1,7 +1,6 @@
 # Development Strategies
 
-Development Strategy files are something you will use for your entire time at
-HYF. As you build larger projects and learn JavaScript your development
+Development Strategy files are something you will use for your entire time in this course. As you build larger projects and learn JavaScript your development
 strategies will grow with you. Practicing now with small projects using only
 HTML & CSS will prepare you for collaborating on larger and more complex
 projects later on.

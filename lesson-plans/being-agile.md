@@ -22,7 +22,7 @@ own.
   to successfully adapt your plans when necessary
   - Ask many questions to learn from your coaches' experience!
 - _10 min_: Form random groups and study the
-  [HackYourFuture Belgium home page](https://hackyourfuture.be/) together:
+  [MIT Emerging Talent landing page](https://emergingtalent.mit.edu) together:
   - Who is this website for? (_User Personas_)
   - Why are they visiting it? (_User Stories_)
   - Which interactions are most meaningful for them? (_Prioritized Backlog_)
@@ -60,6 +60,6 @@ own.
 ## After Class
 
 In your groups, try to complete the
-[HYF Re-Design](../deliverables/hyf-redesign.md) deliverable. If you are not
+[landing page redesign](../deliverables/landing-page-redesign.md) deliverable. If you are not
 able to complete everything that's ok! You should still complete a
 _Retrospective_ and move your issue to _Ready for Review_ before the next class.
